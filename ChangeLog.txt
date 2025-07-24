@@ -1,0 +1,8 @@
+0.0.1 Initial
+
+initial files:
+https://github.com/shaderLABS/Base-330
+
+tutorials:
+https://www.youtube.com/watch?v=RjyNVmsTBmA&t=1409s
+https://docs.minegraph.cn/
