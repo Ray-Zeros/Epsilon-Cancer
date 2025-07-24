@@ -4,5 +4,12 @@ initial files:
 https://github.com/shaderLABS/Base-330
 
 tutorials:
-https://www.youtube.com/watch?v=RjyNVmsTBmA&t=1409s
+https://www.youtube.com/watch?v=RjyNVmsTBmA
 https://docs.minegraph.cn/
+
+
+0.0.2
+
+Support for normal maps
+https://shaderlabs.org/
+https://www.youtube.com/watch?v=HHMJevNEYPc
